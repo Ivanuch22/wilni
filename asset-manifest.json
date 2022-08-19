@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/wilni/static/css/main.fdbea9ee.css",
-    "main.js": "/wilni/static/js/main.9063d60c.js",
+    "main.css": "/wilni/static/css/main.3ece8a2e.css",
+    "main.js": "/wilni/static/js/main.87d7084e.js",
+    "static/media/white-logo.svg": "/wilni/static/media/white-logo.a1be564830cf87d7e292bf23d4582b1d.svg",
     "static/media/logo.svg": "/wilni/static/media/logo.aeb1e699921e0f1b9f403c0dc1406d6f.svg",
+    "static/media/link-img.svg": "/wilni/static/media/link-img.03d477b3d4704e56cc23c36126147b3e.svg",
     "static/media/lang.svg": "/wilni/static/media/lang.e65a04c6f784ec7b3f8cb331a75a8117.svg",
     "index.html": "/wilni/index.html",
     "static/media/arrow-down.svg": "/wilni/static/media/arrow-down.9be8586c573ab47e4b4ac7564d53011d.svg",
-    "main.fdbea9ee.css.map": "/wilni/static/css/main.fdbea9ee.css.map",
-    "main.9063d60c.js.map": "/wilni/static/js/main.9063d60c.js.map"
+    "main.3ece8a2e.css.map": "/wilni/static/css/main.3ece8a2e.css.map",
+    "main.87d7084e.js.map": "/wilni/static/js/main.87d7084e.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdbea9ee.css",
-    "static/js/main.9063d60c.js"
+    "static/css/main.3ece8a2e.css",
+    "static/js/main.87d7084e.js"
   ]
 }
