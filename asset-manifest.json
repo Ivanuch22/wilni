@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wilni/static/css/main.fdbea9ee.css",
+    "main.js": "/wilni/static/js/main.9063d60c.js",
+    "static/media/logo.svg": "/wilni/static/media/logo.aeb1e699921e0f1b9f403c0dc1406d6f.svg",
+    "static/media/lang.svg": "/wilni/static/media/lang.e65a04c6f784ec7b3f8cb331a75a8117.svg",
+    "index.html": "/wilni/index.html",
+    "static/media/arrow-down.svg": "/wilni/static/media/arrow-down.9be8586c573ab47e4b4ac7564d53011d.svg",
+    "main.fdbea9ee.css.map": "/wilni/static/css/main.fdbea9ee.css.map",
+    "main.9063d60c.js.map": "/wilni/static/js/main.9063d60c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdbea9ee.css",
+    "static/js/main.9063d60c.js"
+  ]
+}
