@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/wilni/static/css/main.8f6e1efd.css",
-    "main.js": "/wilni/static/js/main.8a905981.js",
+    "main.css": "/wilni/static/css/main.3536c439.css",
+    "main.js": "/wilni/static/js/main.edfd1ffc.js",
+    "static/media/firstSlide.jpg": "/wilni/static/media/firstSlide.c032f44258402ce20ae9.jpg",
+    "static/media/secondSlide.jpg": "/wilni/static/media/secondSlide.93d7bd43f45cdec5568d.jpg",
     "static/media/about.jpg": "/wilni/static/media/about.536bc1081ec110bb7c69.jpg",
     "static/media/rowSecondImg.jpg": "/wilni/static/media/rowSecondImg.6517799f88643591e729.jpg",
     "static/media/secondBannerImg.jpg": "/wilni/static/media/secondBannerImg.9b94060415bbdc18769f.jpg",
@@ -16,11 +18,13 @@
     "static/media/lang.svg": "/wilni/static/media/lang.e65a04c6f784ec7b3f8cb331a75a8117.svg",
     "index.html": "/wilni/index.html",
     "static/media/arrow-down.svg": "/wilni/static/media/arrow-down.9be8586c573ab47e4b4ac7564d53011d.svg",
-    "main.8f6e1efd.css.map": "/wilni/static/css/main.8f6e1efd.css.map",
-    "main.8a905981.js.map": "/wilni/static/js/main.8a905981.js.map"
+    "static/media/prev-arrow.svg": "/wilni/static/media/prev-arrow.69f9d00ec0845554bec4918602e34f80.svg",
+    "static/media/next-arrow.svg": "/wilni/static/media/next-arrow.513aad46852778cd11271ff9c6d27dad.svg",
+    "main.3536c439.css.map": "/wilni/static/css/main.3536c439.css.map",
+    "main.edfd1ffc.js.map": "/wilni/static/js/main.edfd1ffc.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f6e1efd.css",
-    "static/js/main.8a905981.js"
+    "static/css/main.3536c439.css",
+    "static/js/main.edfd1ffc.js"
   ]
 }
