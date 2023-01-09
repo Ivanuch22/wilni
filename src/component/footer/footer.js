@@ -4,26 +4,33 @@ import logo from "./white-logo.svg";
 import linkImg from "./link-img.svg"
 
 export default function Footer() {
+  const scrollTopOnClick = () => {
+    window.scroll({
+      left: 0,
+      top: 0,
+
+    })
+  }
   return (
     <footer className="footer">
       <div className="footer__top">
         <div className="container">
-          <Link className="footer_logo" to={'/'}>
+          <Link onClick={scrollTopOnClick} className="footer_logo" to={'/wilni'}>
             <img src={logo} alt="logo" className="footer__logo-img" />
             <p className="footer__logo-description">благодійний фонд</p>
           </Link>
           <nav className="footer__nav">
-            <Link className="footer__nav-link" to={'/about'}>ПРО ФОНД</Link>
-            <Link className="footer__nav-link" to={'/news'}>НОВИНИ</Link>
-            <Link className="footer__nav-link" to={'/reports'}>ЗВІТИ</Link>
+            <Link onClick={scrollTopOnClick} className="footer__nav-link" to={'/about'}>ПРО ФОНД</Link>
+            <Link onClick={scrollTopOnClick} className="footer__nav-link" to={'/news'}>НОВИНИ</Link>
+            <Link onClick={scrollTopOnClick} className="footer__nav-link" to={'/reports'}>ЗВІТИ</Link>
           </nav>
           <nav className="footer__nav">
-            <a href="#" className="footer__nav-link-social"><img src={linkImg} className="footer__nav-link-social-img" />сторінка фонду </a>
-            <a href="#" className="footer__nav-link-social"><img src={linkImg} className="footer__nav-link-social-img" />сторінка Антитіла </a>
-            <a href="#" className="footer__nav-link-social"><img src={linkImg} className="footer__nav-link-social-img" />сторінка сторінка ` </a>
-            <a href="#" className="footer__nav-link-social"><img src={linkImg} className="footer__nav-link-social-img" />сторінка фонду` </a>
-            <a href="#" className="footer__nav-link-social"><img src={linkImg} className="footer__nav-link-social-img" />сторінка фонду` </a>
-            <a href="#" className="footer__nav-link-social"><img src={linkImg} className="footer__nav-link-social-img" />сторінка фонду` </a>
+            <a onClick={scrollTopOnClick} href="a dont know" className="footer__nav-link-social"><img src={linkImg} className="footer__nav-link-social-img" alt='img' />сторінка фонду </a>
+            <a onClick={scrollTopOnClick} href="a dont know" className="footer__nav-link-social"><img src={linkImg} className="footer__nav-link-social-img" alt='img' />сторінка Антитіла </a>
+            <a onClick={scrollTopOnClick} href="a dont know" className="footer__nav-link-social"><img src={linkImg} className="footer__nav-link-social-img" alt='img' />сторінка сторінка ` </a>
+            <a onClick={scrollTopOnClick} href="a dont know" className="footer__nav-link-social"><img src={linkImg} className="footer__nav-link-social-img" alt='img' />сторінка фонду` </a>
+            <a onClick={scrollTopOnClick} href="a dont know" className="footer__nav-link-social"><img src={linkImg} className="footer__nav-link-social-img" alt='img' />сторінка фонду` </a>
+            <a onClick={scrollTopOnClick} href="a dont know" className="footer__nav-link-social"><img src={linkImg} className="footer__nav-link-social-img" alt='img' />сторінка фонду` </a>
           </nav>
           <div className="footer__about">
             <h3 className="footer__about-item">Контакти: </h3>
@@ -38,9 +45,9 @@ export default function Footer() {
         <div className="container">
           <div className="footer__bottom-left">© Antytila | Зареєстровано в Україні. Благодійний фонд «АНТИТІЛА»</div>
           <nav className="footer__bottom-right">
-            <a href="#" className="footer__bottom-link">Політика конфіденційності</a>
-            <a href="#" className="footer__bottom-link">Політика Cookies</a>
-            <a href="#" className="footer__bottom-link">Публічна оферта</a>
+            <a href="home" className="footer__bottom-link">Політика конфіденційності</a>
+            <a href="home" className="footer__bottom-link">Політика Cookies</a>
+            <a href="home" className="footer__bottom-link">Публічна оферта</a>
           </nav>
         </div>
       </div>

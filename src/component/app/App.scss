@@ -139,7 +139,6 @@ h6 {
   &:hover {
     color : #2F2F2F;
     border: 3px solid #2F2F2F;
-
   }
 }
 
@@ -147,14 +146,6 @@ h6 {
   color: #B31217;
 }
 
-@media(max-width: 610px) {
-  .title {
-    font-size  : 28px;
-    line-height: 41px;
-  }
-
-
-}
 
 @media (max-width: 1160px) {
   .button-transparent {
@@ -165,5 +156,21 @@ h6 {
   .description {
     font-size  : 16px;
     line-height: 24px;
+  }
+}
+
+@media (max-width: 650px) {
+  .title {
+    font-size  : 28px;
+    line-height: 41px;
+  }
+
+  .helpArmy__buttons {
+    padding: 0 15px;
+  }
+
+  .button-transparent {
+    padding  : 12px 24px;
+    font-size: 14px;
   }
 }
