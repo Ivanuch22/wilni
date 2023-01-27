@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wilni/static/css/main.9785d214.css",
+    "main.css": "/wilni/static/css/main.9995b6b8.css",
     "main.js": "/wilni/static/js/main.28d8dba5.js",
     "static/media/mainPhoto.jpg": "/wilni/static/media/mainPhoto.fe094dc88d93cf308548.jpg",
     "static/media/secondSlide.jpg": "/wilni/static/media/secondSlide.93d7bd43f45cdec5568d.jpg",
@@ -28,11 +28,11 @@
     "static/media/next-arrow.svg": "/wilni/static/media/next-arrow.513aad46852778cd11271ff9c6d27dad.svg",
     "static/media/arrowIcon.svg": "/wilni/static/media/arrowIcon.35ac05b6ee38850f963c7f7c1a7e94d7.svg",
     "static/media/arrow.svg": "/wilni/static/media/arrow.7ce9cf56e0fce6e249954524254d402f.svg",
-    "main.9785d214.css.map": "/wilni/static/css/main.9785d214.css.map",
+    "main.9995b6b8.css.map": "/wilni/static/css/main.9995b6b8.css.map",
     "main.28d8dba5.js.map": "/wilni/static/js/main.28d8dba5.js.map"
   },
   "entrypoints": [
-    "static/css/main.9785d214.css",
+    "static/css/main.9995b6b8.css",
     "static/js/main.28d8dba5.js"
   ]
 }
